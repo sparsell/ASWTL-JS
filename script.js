@@ -1,0 +1,1 @@
+document.getElemntById("first").className = " light";

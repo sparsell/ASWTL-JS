@@ -1,0 +1,19 @@
+body {
+  background: lightblue;
+}
+
+#first {
+  color: yellow;
+}
+
+#second {
+  color: tomato;
+}
+
+#third {
+  color: navy;
+}
+
+.light {
+  background: limegreen;
+}
